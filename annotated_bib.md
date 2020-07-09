@@ -9,6 +9,12 @@ Pearce makes a case as to why FOSH initiatives need to be taken seriously and ca
 ### Methods
 Pearce performed a systematic review of all documentation availabe per hardware and equipment type and rated each hardware's available documentation to FOSH standards.</p>
 	
+### Bonvoisin, J., Mies, R., Boujut, J.-F., & Stark, R. G. (2017). What is the “Source” of Open Source Hardware? Journal of Open Hardware, 1(1). https://doi.org/10.5334/joh.7
+
+### Scope
+### Purpose
+### Method
+
 ## Ackerman, J. R. (2008). Toward Open Source Hardware. University of Dayton Law Review, 34(2), 183–222. https://heinonline.org/HOL/P?h=hein.journals/udlr34&i=189</h2>
 	
 ### Scope
