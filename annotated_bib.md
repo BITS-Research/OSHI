@@ -18,8 +18,24 @@ Pearce performed a systematic review of all documentation availabe per hardware 
 ## Ackerman, J. R. (2008). Toward Open Source Hardware. University of Dayton Law Review, 34(2), 183–222. https://heinonline.org/HOL/P?h=hein.journals/udlr34&i=189</h2>
 	
 ### Scope
+This article defines open source hardware by the various assets produced by open source hardware designers, their processes, and the intended use of the assets, in comparison to open source software outputs. By explaning the creators of open source hardware components (e.g. schematic capture program, netlist, and circuit board layout), the process to develop each component, and output and its use/non-use, Ackerman is clarifies when copyright or patent license language is appropriate for OSH protection. In the end, "electrons are cheap, but atoms are expensive", which further explains the nuance, limitations, and similarities to GPL that the OHL was published with. This article includes the history and explanation of the specificity of the OSH field, and closes with an Appendix of the full OHL which is owned by TAPR, but is openly available for any on to use for their OSH projects.
+
 ### Purpose
+Ackerman was hired by TAPR, a non-profit "organization of amateur radio operators, advancing state of radio technology[... who] turn their project concepts into reproducible designs, and making these projects available as either kits or finished products to other amateurs", to help an informal group developers for high performance software defined radio products (HPSDR) "a license that would help them achieve their goal of building a Free-Software-like community of hardware developers protected from commercial expropriation." 
+
+This article explains Ackerman's research in definin hardware and open hardwar compared to software and open software, in order to justify the theory and foundation to the Open Hardware License (OHL).
+
 ### Method
+References to history of OSH and OSS, explanation of the OSH field and diagrams of the physical assets, and includes evidence from pre-existing legal cases to inform decision on copyright vs patent implemented on each OSH asset.
+
+## Li, Z., Seering, W., Tao, T., & Cao, S. (2019). Understanding Community Behaviors in For-Profit Open Source Hardware Projects. Proceedings of the Design Society: International Conference on Engineering Design, 1(1), 2397–2406. https://doi.org/10.1017/dsi.2019.246
+
+### Scope
+This article is deeper reflection of developer, community, and company relations around OSH projects, in reaction to Makerbot closing source and development after 4 years of gaining popularity and gathering a deep and supportive community as an open source company. Through qualitative interviews, harvested data from 2 companies', with primary OSH products, community forums, and grounded theory, they were able to categorize the types of contributors (ranking from least to most innovative), types of contributions, leading to what makes it sustainable for the for-profit companies.
+### Purpose
+Li, et al., sought to understand 1) how the community contributes to the project; and 2) whether being firm-led and profit seeking eliminates the willingness of the community to participate. With the rise of OSH projects and the openness to OSH developers to allow others to make profit from their output, there is a need to understand how community continues to support or not support OSH-based companies.
+### Method
+Li, et al., interviewed founders from 30+ different OSH companies, harvested data from 2 OSH-based companies' community forums (as case studies), and grounded theory to come up with findings about engineer and customer communication behaviors..
 	
 ## Oliver, N., Reddy, M., Marriott, C., Walker, T., & Heinemann, L. (2019). Open source automated insulin delivery: addressing the challenge. Npj Digital Medicine, 2(1), 1–5. https://doi.org/10.1038/s41746-019-0202-1</h2>
 	
