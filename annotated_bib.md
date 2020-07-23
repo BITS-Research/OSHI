@@ -9,13 +9,13 @@ Pearce makes a case as to why FOSH initiatives need to be taken seriously and ca
 ### Methods
 Pearce performed a systematic review of all documentation availabe per hardware and equipment type and rated each hardware's available documentation to FOSH standards.</p>
 	
-### Bonvoisin, J., Mies, R., Boujut, J.-F., & Stark, R. G. (2017). What is the “Source” of Open Source Hardware? Journal of Open Hardware, 1(1). https://doi.org/10.5334/joh.7
+## Bonvoisin, J., Mies, R., Boujut, J.-F., & Stark, R. G. (2017). What is the “Source” of Open Source Hardware? Journal of Open Hardware, 1(1). https://doi.org/10.5334/joh.7
 
 ### Scope
 ### Purpose
 ### Method
 
-## Ackerman, J. R. (2008). Toward Open Source Hardware. University of Dayton Law Review, 34(2), 183–222. https://heinonline.org/HOL/P?h=hein.journals/udlr34&i=189</h2>
+## Ackerman, J. R. (2008). Toward Open Source Hardware. University of Dayton Law Review, 34(2), 183–222. https://heinonline.org/HOL/P?h=hein.journals/udlr34&i=189
 	
 ### Scope
 This article defines open source hardware by the various assets produced by open source hardware designers, their processes, and the intended use of the assets, in comparison to open source software outputs. By explaning the creators of open source hardware components (e.g. schematic capture program, netlist, and circuit board layout), the process to develop each component, and output and its use/non-use, Ackerman is clarifies when copyright or patent license language is appropriate for OSH protection. In the end, "electrons are cheap, but atoms are expensive", which further explains the nuance, limitations, and similarities to GPL that the OHL was published with. This article includes the history and explanation of the specificity of the OSH field, and closes with an Appendix of the full OHL which is owned by TAPR, but is openly available for any on to use for their OSH projects.
